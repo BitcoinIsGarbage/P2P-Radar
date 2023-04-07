@@ -13,7 +13,7 @@ Add list of XMPP addresses to share with.
 
 Receiving:
 Enter the config file for the person you want to track (it contains their XMPP address, their PGP Public Key, their time/location offsets, and the Max amount of time you should store their pings).  
-Switch to the Maps tab to view the location history of those who you have added (based on OSM).  
+Switch to the Receiving tab to view the location history of those who you have added (based on OSM).  
 
 App requirements
 Enable Background Location Access.  
